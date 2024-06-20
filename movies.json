@@ -1,0 +1,142 @@
+[
+  {
+    "MovieName": "Bahubali",
+    "Year": 2015,
+    "DirectorName": "S. S. Rajamouli",
+    "Genre": "Historical Fiction",
+    "Cast": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia"
+  },
+  {
+    "MovieName": "Arjun Reddy",
+    "Year": 2017,
+    "DirectorName": "Sandeep Reddy Vanga",
+    "Genre": "Romantic Drama",
+    "Cast": "Vijay Deverakonda, Shalini Pandey"
+  },
+  {
+    "MovieName": 3,
+    "Year": 2012,
+    "DirectorName": "Aishwarya Rajinikanth",
+    "Genre": "Romantic Psychological Thriller",
+    "Cast": "Dhanush, Shruti Haasan"
+  },
+  {
+    "MovieName": "Dil Se..",
+    "Year": 1998,
+    "DirectorName": "Mani Ratnam",
+    "Genre": "Romantic Thriller",
+    "Cast": "Shah Rukh Khan, Manisha Koirala, Preity Zinta"
+  },
+  {
+    "MovieName": "Sanam Teri Kasam",
+    "Year": 2016,
+    "DirectorName": "Radhika Rao, Vinay Sapru",
+    "Genre": "Romantic Drama",
+    "Cast": "Harshvardhan Rane, Mawra Hocane"
+  },
+  {
+    "MovieName": "Kedarnath",
+    "Year": 2018,
+    "DirectorName": "Abhishek Kapoor",
+    "Genre": "Romantic Disaster",
+    "Cast": "Sushant Singh Rajput, Sara Ali Khan"
+  },
+  {
+    "MovieName": "PK",
+    "Year": 2014,
+    "DirectorName": "Rajkumar Hirani",
+    "Genre": "Science Fiction Comedy",
+    "Cast": "Aamir Khan, Anushka Sharma, Sushant Singh Rajput"
+  },
+  {
+    "MovieName": "Jailer",
+    "Year": 2023,
+    "DirectorName": "Nelson Dilipkumar",
+    "Genre": "Action Comedy",
+    "Cast": "Rajinikanth"
+  },
+  {
+    "MovieName": "Vikram",
+    "Year": 2022,
+    "DirectorName": "Lokesh Kanagaraj",
+    "Genre": "Action Thriller",
+    "Cast": "Kamal Haasan, Vijay Sethupathi"
+  },
+  {
+    "MovieName": "Pizza",
+    "Year": 2014,
+    "DirectorName": "Akshay Akkineni",
+    "Genre": "Horror",
+    "Cast": "Akshay Oberoi, Parvathy Omanakuttan"
+  },
+  {
+    "MovieName": "Kanchana",
+    "Year": 2011,
+    "DirectorName": "Raghava Lawrence",
+    "Genre": "Horror Comedy",
+    "Cast": "Raghava Lawrence, R. Sarathkumar, Kovai Sarala, Lakshmi Rai"
+  },
+  {
+    "MovieName": "Pushpa",
+    "Year": 2021,
+    "DirectorName": "Sukumar",
+    "Genre": "Action Drama",
+    "Cast": "Allu Arjun, Rashmika Mandanna"
+  },
+  {
+    "MovieName": "Khaleja",
+    "Year": 2010,
+    "DirectorName": "Trivikram Srinivas",
+    "Genre": "Fantasy Action Comedy",
+    "Cast": "Mahesh Babu, Anushka Shetty, Prakash Raj"
+  },
+  {
+    "MovieName": "Bajrangi Bhaijaan",
+    "Year": 2015,
+    "DirectorName": "Kabir Khan",
+    "Genre": "Comedy Drama",
+    "Cast": "Salman Khan, Harshaali Malhotra, Kareena Kapoor Khan"
+  },
+  {
+    "MovieName": "Sanju",
+    "Year": 2018,
+    "DirectorName": "Rajkumar Hirani",
+    "Genre": "Biological",
+    "Cast": "Ranbir Kapoor"
+  },
+  {
+    "MovieName": "Befikre",
+    "Year": 2016,
+    "DirectorName": "Adithya Chopra",
+    "Genre": "Romantic Comedy",
+    "Cast": "Ranveer Singh, Vaani Kapoor"
+  },
+  {
+    "MovieName": "Baaghi 3",
+    "Year": 2020,
+    "DirectorName": "Ahmed Khan",
+    "Genre": "Action Thriller",
+    "Cast": "Tiger Shroff, Ritesh Deshmukh, Shraddha Kapoor"
+  },
+  {
+    "MovieName": "Student of the Year",
+    "Year": 2012,
+    "DirectorName": "Karan Johar",
+    "Genre": "Romantic Comedy",
+    "Cast": "Sidharth Malhotra, Varun Dhawan, Alia Bhatt"
+  },
+  {
+    "MovieName": "Shershaah",
+    "Year": 2021,
+    "DirectorName": "Vishnuvardhan",
+    "Genre": "Biological War",
+    "Cast": "Sidharth Malhotra, Kiara Advani"
+  },
+  {
+    "MovieName": "Happy Days",
+    "Year": 2007,
+    "DirectorName": "Sekhar Kammula",
+    "Genre": "Musiacal Youth",
+    "Cast": "Varun Sandesh, Tamannaah Bhatia"
+  }
+]
